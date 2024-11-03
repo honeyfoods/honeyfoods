@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ساشو - اسناكس مميز</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            border-radius: 5px;
+        }
+        h1, h2 {
+            color: #2980b9;
+        }
+        .flavors {
+            list-style-type: none;
+            padding: 0;
+        }
+        .flavors li {
+            background: #ecf0f1;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #2c3e50;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ساشو</h1>
+    <p>اسناكس مميز بنكهة لا تُنسى</p>
+</header>
+
+<main>
+    <h2>عن المنتج</h2>
+    <p>ساشو هو اسناكس مصنوع من:</p>
+    <ul>
+        <li>ذرة مجروشة</li>
+        <li>زيوت نباتية</li>
+        <li>ملح طعام أقل من 5%</li>
+        <li>لون طبيعي (اناتو)</li>
+    </ul>
+    <p>يأتي ساشو بمجموعة متنوعة من النكهات المميزة:</p>
+    <ul class="flavors">
+        <li>جمبري حار</li>
+        <li>كاتشب</li>
+        <li>سجق</li>
+        <li>بيتزا</li>
+        <li>فلفل حلو</li>
+    </ul>
+
+    <h2>لشراء المنتج</h2>
+    <p>يمكنك شراء ساشو عبر الهاتف:</p>
+    <p><strong>01015015609</strong></p>
+</main>
+
+<footer>
+    <p>&copy; 2024 ساشو - جميع الحقوق محفوظة</p>
+</footer>
+
+</body>
+</html>
